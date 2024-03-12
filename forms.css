@@ -1,0 +1,23 @@
+body{
+    background-image:url("https://picsum.photos/1200");
+
+}
+
+.container{
+    border: 5px;
+    height: 200px;
+    width: 200px;
+    margin:auto;
+    margin-top:150px;
+    border-radius: 5px;
+    background-color: rgba(135, 207, 235, 0.534);
+}
+h3{
+    text-align: center;
+}
+.child{
+    margin: 5px;
+}
+form{
+    text-align: center;
+}
